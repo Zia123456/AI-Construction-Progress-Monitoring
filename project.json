@@ -1,0 +1,13 @@
+{
+  "name": "AI Construction Progress Monitoring",
+  "author": "Mohammad Zia Bakhteyari",
+  "domain": "Construction Informatics",
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "CLIP",
+    "Streamlit"
+  ],
+  "type": "research prototype"
+}
